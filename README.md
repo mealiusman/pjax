@@ -1,0 +1,2 @@
+# pjax
+pushState + ajax = pjax
